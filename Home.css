@@ -1,0 +1,652 @@
+body{
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.LOGO{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.title2{
+    position: absolute;
+    left: -20%;
+    top:  -40%;
+    object-fit: contain;
+    font-size: 37px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: 1.89px;
+    text-align: center;
+    color: #fefcfc;
+}
+
+.title1{
+    font-weight: bold;
+    position: absolute;
+    left: -20%;
+    top: -250px;
+    font-size: 55px;
+    letter-spacing: 3.98px;
+    text-align: center;
+    color: #fefcfc
+}
+
+#title3{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 14px;
+  line-height: 1.21;
+  letter-spacing: 0.71px;
+  width: 550px;
+  height: 50px;
+  color: #c69e40;
+}
+
+
+.container{
+  position: relative;
+  top: -1900px;
+  width: 50%;
+  left: 39%;
+}
+
+.shutterstock{
+    position: relative;
+    width: 110%;
+    height: 170%;
+    background-size: contain;
+  }
+
+  .Union-2{
+    position: relative;
+    width: 110%;
+    height: 150%;
+    left: 2px;
+    top: -1250px;
+    object-fit: contain;
+    opacity: 0.52;
+    background-color: #000000;
+  }
+
+  .union3{
+    position: relative;
+    left: -15px;
+    top: -900px;
+    width: 1366px;
+    height: 200%;
+  }
+  .union1{
+    position: relative;
+    left: -15px;
+    top: -1710px;
+    width: 1366px;
+    height: 200%;
+  }
+  #TITLE{
+    position: relative;
+    right: -33%;
+    width: 506px;
+    height: 40px;
+    object-fit: contain;
+    font-family: "Nexa";
+    font-size: 33px;
+    font-weight: bold;
+    line-height: 0.27;
+    letter-spacing: 0.73px;
+    color: #fefcfc;
+    top:-212%;
+  }
+  #Lorem{
+    position: relative;
+    color: #707070;
+    width: 928px;
+    height: 91px;
+    font-family: "OpenSans";
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    top: -170%;
+    right: -20%;
+  }
+  .inbox2{
+    top: -350px;
+    height: 80%;
+    width: 1200px;
+  }
+  #parag{
+    left: 5%;
+    top: 300px;
+    position: relative;
+    font-family: 'Open Sans';
+    color: #ffffff;
+  }
+
+#engineers{
+  top: 90px;
+  position: relative;
+  right: -40%;
+  margin-left:20px ;
+  width: 500px;
+  height: 300px;
+}
+
+.link{
+  position: relative;
+  top: 90px;
+  left: 5%;
+  color: #c69e40;
+  width: 106px;
+  height: 24px;
+  object-fit: contain;
+  font-family: Nexa;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+  text-align: left;
+}
+
+
+ #ABOUT{
+    position: relative;
+    top: 32%;
+    left: 3%;
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-weight: 200px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+  }
+  #fomaABOUT{
+    position: relative;
+    top: 25%;
+    left: 12.5%;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+
+  }
+  #Group1ABOUT{
+    position: relative;
+    top: 280px;
+    left: 3%;
+  }
+  .Rectangles{
+    top: -30%;
+    left: 122%;
+    position: absolute;
+    width: 80px;
+    height: 0px;
+    object-fit: contain;
+    background-color: #c69e40;
+  }
+  #home{
+    width: 35px;
+    height: 21px;
+    object-fit: contain;
+    font-family: "BebasNeue";
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 6.17;
+    letter-spacing: 1.17px;
+    text-align: left;
+    color: #fefcfc;
+  }
+  #firstrectangle{
+    margin-right: auto;
+   }
+
+  #foma{
+    position: relative;
+    top: 40%;
+    left: 12.5%;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+  }
+  .Rectangle-11 {
+    top: -65%;
+    left: 100%;
+    position: relative;
+    width: 101px;
+    height: 11px;
+    object-fit: contain;
+    background-color: #c69e40;
+  }
+  #Rectangle11{
+    top: -70%;
+  }
+
+#ShipWheel{
+  object-fit: contain;
+  top: 55%;
+  position: absolute;
+  right: 27%;
+  margin-left:20px ;
+  width: 728px;
+  height: 728px;
+
+}
+.numbers{
+  top: 25%;
+  left: 35%;
+  position: relative;
+  text-align: left;
+  color: #ffffff;
+}
+.words{
+  top: 20%;
+  left: 30%;
+  position: relative;
+  text-align: left;
+  color: #c69e40;
+}
+.numbersRight{
+  top: -13%;
+  right:10%;
+  position: relative;
+  text-align: right;
+  color: #ffffff;
+}
+.wordsRight{
+    top: -13%;
+    right: 5%;
+    position: relative;
+    text-align: right;
+    color: #c69e40;
+  }
+
+#Group1SERVICES{
+  top: 5%;
+  left: 24%;
+  position: relative;
+}
+#Rectanglesbox3{
+  position: relative;
+  top:7.3%;
+  left: 21%;
+  margin: right;
+}
+#ship{
+  position: relative;
+  left: -67%;
+  top: 7%;
+}
+#SHIPPING{
+  position: relative;
+  top: 10%;
+  right: 73%;
+}
+#linkbox3{
+  position: relative;
+  top: 11%;
+  right: 81%;
+  color: #c69e40;
+  width: 106px;
+  height: 24px;
+  object-fit: contain;
+  font-family: Nexa;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+  text-align: left;
+}
+#Import{
+  position: relative;
+  left: 30%;
+  top: 3%;
+}
+#Logistic{
+  position: relative;
+  right: -40%;
+  top: -1%;
+}
+#LOGist{
+  position: relative;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: "Nexa" ;
+  left: 54%;
+  top:-2%;
+}
+#linkbox3LL{
+  position: relative;
+  top:-2.5%;
+  left: 54%;
+  color: #c69e40;
+  width: 106px;
+  height: 24px;
+  object-fit: contain;
+  font-family: Nexa;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+  text-align: left;
+}
+
+.box1{
+  position: relative;
+  margin-top:-25px;
+  margin-left:-10px;
+  width : 101%;
+  height: 100%;
+}
+
+.box2{
+  position: relative;
+  margin-top: -15%;
+  width : 101%;
+  height: 200%;
+}
+
+.union3{
+  position: absolute;
+  background-size: contain;
+  width: 112.5%;
+  margin-left: -2.1%;
+  top: 15px;
+}
+
+.union1{
+  position: absolute;
+  background-size: contain;
+  width: 112.5%;
+  margin-left: -2%;
+  margin-top: 1.5%;
+  top: 15px;
+}
+
+.box3{
+  position: relative;
+  width : 101%;
+  height: 230%;
+}
+
+.union6{
+  width: 113%;
+  margin-left: -3.5%;
+  background-size: contain;
+}
+
+.Union2{
+    position: relative;
+    width: 110.3%;
+    height:135%;
+    left: 2px;
+    top: -903px;
+    margin-left: -1%;
+    object-fit: contain;
+    opacity: 0.52;
+    background-color: #000000;
+}
+#Union1{
+    position: relative;
+    left: -22px;
+    top: -150%;
+    width: 111%;
+    background-size: contain;
+  }
+
+  #worldmap{
+    position: absolute;
+    top: 55%;
+    left: 10%;
+  }
+
+.box4{
+  top: -5%;
+  right: 50px;
+  position: relative;
+  width : 113.8%;
+  height: 150%;
+  background: #000000;
+}
+
+  #Group1{
+    position: relative;
+    top: 14%;
+    left: 3%;
+  }
+
+  #news{
+    position: relative;
+    top: 15%;
+    left: 3%;
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-weight: 200px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+  }
+
+  #foma{
+    position: absolute;
+    top: 9%;
+    left: 12.5%;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+  }
+  #shutter{
+    position: relative;
+    top: 20%;
+    left: 10%;
+  }
+  #Lorem1{
+    position: relative;
+    top: 20%;
+    left: 10%;
+    width: 484px;
+    height: 91px;
+    object-fit: contain;
+    font-family: Nexa;
+    font-size: 24px;
+    font-weight:100;
+    font-stretch: normal;  
+    font-style: normal;
+    line-height: 1.25; 
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  #shutterstock_391811647{
+    position: relative;
+    top: -32%;
+    float: right;
+    right: 15%;
+  }
+  #Lorem2{
+    position: relative;
+    top: 8%;
+    left: 55%;
+    width: 484px;
+    height: 91px;
+    object-fit: contain;
+    font-family: Nexa;
+    font-size: 24px;
+    font-weight:100;
+    font-stretch: normal;  
+    font-style: normal;
+    line-height: 1.25; 
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  #LINK1{
+    color: #c69e40;
+    width: 106px;
+    height: 24px;
+    object-fit: contain;
+    font-family: Nexa;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    text-align: left;
+  }
+  #Dot{
+    position: relative;
+    left: 45%;
+    top:20%;    
+  }
+#RECTANGLESBOX4{
+  position: relative;
+  float: right;
+  top: 30%;
+}
+#plusRecangles{
+  position: relative;
+  float: right;
+  top: 43%;
+  right: -8%;
+}
+#recNEWS{
+  position: relative;
+  top: 42.1%;
+  width: 32px;
+  height: 19px;
+  right: -91%;
+  object-fit: contain;
+  font-family: "BebasNeue";
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.56;
+  letter-spacing: 0.35px;
+  color: #ffffff;
+}
+
+.box5{
+  position: relative;
+  top: -12%;
+  margin-left:-10px;
+  height: 150%;
+  width: 100.7%;
+}
+
+#lastphoto{
+  top: -2000px;
+  width: 108%;
+  height: 70%;
+  background-size: contain; 
+  /*filter: contrast(100%);*/
+}
+
+#Union2Last{
+    position: relative;
+    width: 108%;
+    height: 100%;
+    left: 2px;
+    top: -70%;
+    object-fit: contain;
+    opacity: 0.6;
+    background-color: #000000;
+}
+
+#union3last{
+    position: relative;
+    left: -25px;
+    top: -1150px;
+    width: 110%;
+    height: 60%;
+}
+
+#union1last{
+  position: relative;
+    left: -25px;
+    top: -1750px;
+    width: 110%;
+    height: 70%;
+}
+#contact{
+  position: absolute;
+    top: 12%;
+    left: 3%;
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-weight: 200px;
+    font-family: 'Poppins', "sans-serif";
+    color: #ffffff;
+}
+#Lastfoma{
+  position: absolute;
+    top: 9%;
+    left: 12.5%;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+}
+#lastGroup1{
+  position: absolute;
+    top: 18%;
+    left: 3%;
+}
+#lastrectangles{
+  position: absolute;
+  top: 24%;
+  margin: right;
+  right: -8%;
+}
+#LAST{
+  position: absolute;
+  top: 37%;
+ right: -8%;
+}
+#LAST2{
+  position: absolute;
+  top: 39%;
+ right: -8%;
+}
+#Contact2{ 
+position: absolute;
+top: 32.5%;
+right: -1%;
+width: 45px;
+height: 19px;
+object-fit: contain;
+font-family: "BebasNeue" ;
+font-size: 16px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 0.56;
+letter-spacing: 0.35px;
+text-align: left;
+color: #ffffff;}
+
+#Form{
+  position: absolute;
+  top: 25%;
+  right: 10%;
+}
+#Lst{
+  position: absolute;
+  top: 70%;
+}
+
